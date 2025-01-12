@@ -21,7 +21,7 @@ A simple and basic CRUD (Create, Read, Update, Delete) backend API built with Go
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/TheMikeKaisen/Go_CRUD.git
    cd <repository_name>
    ```
 
